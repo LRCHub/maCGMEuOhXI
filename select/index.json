@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "グリーンライツ・セレナーデ (MV ver.)",
+  "base_artist": "Omoi",
+  "createdAt": "2025-12-05T11:04:17.589369Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グリーンライツ・セレナーデ",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/01_グリーンライツ・セレナーデ_Omoi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グリーンライツ·セレナーデ",
+      "artist": "Omoi feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_グリーンライツ·セレナーデ_Omoi_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グリーンライツ・セレナーデ (MV ver.)",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/03_グリーンライツ・セレナーデ_(MV_ver.)_Omoi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グリーンライツ·セレナーデ",
+      "artist": "Omoi feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_グリーンライツ·セレナーデ_Omoi_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "グリーンライツ·セレナーデ",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/05_グリーンライツ·セレナーデ_Omoi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グリーンライツ・セレナーデ",
+      "artist": "Omoi feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/06_グリーンライツ・セレナーデ_Omoi_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "グリーンライツ・セレナーデ (feat. 初音ミク)",
+      "artist": "Omoi",
+      "has_synced": false,
+      "path": "select/07_グリーンライツ・セレナーデ_(feat._初音ミク)_Omoi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "グリーンライツ・セレナーデ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_グリーンライツ・セレナーデ_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グリーンライツ・セレナーデ (feat. 初音ミク)",
+      "artist": "Omoi",
+      "has_synced": false,
+      "path": "select/pl_01_グリーンライツ・セレナーデ_(feat._初音ミク)_Omoi.txt"
+    }
+  ]
+}
